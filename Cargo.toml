@@ -9,6 +9,6 @@ description = "Tracing layer to log to Android's logcat"
 repository = "https://github.com/Actyx/tracing-android"
 
 [dependencies]
-android_log-sys = "0.2.0"
-tracing = "0.1.29"
-tracing-subscriber = "0.3.6"
+android_log-sys = "0.3"
+tracing = "0.1"
+tracing-subscriber = "0.3"
